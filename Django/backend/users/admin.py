@@ -2,4 +2,4 @@
 from django.contrib import admin
 from .models import CustomUser
 
-admin.site.register(CustomUser)  # ✅ Now manageable in Admin
+admin.site.register(CustomUser)  
